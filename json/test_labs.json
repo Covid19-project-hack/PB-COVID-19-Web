@@ -2,15 +2,261 @@
     "data": [
         {
             "sno": "1",
-            "name": " Virus Research and Diagnostic Laboratory, STNM Hospital, Gangtok ",
+            "name": "All India Institute Medical Sciences",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " Intermediate Reference Laboratory, STNM Hospital, Gangtok",
+            "name": " Lady Hardinge Medical College",
             "type": "Government",
-            "test_type": "True NAD"
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " National Centre for Disease Control",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Ram Manohar Lohia Hospital",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Institute of Liver Biliary Sciences",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " Army Hospital Research Referral",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Maulana Azad Medical College",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Vardhman Mahavir Medical College Safdarjung Hospital",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " University College of Medical Sciences, New Delhi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " Army Base Hospital, New Delhi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " IGIB, CSIR, New Delhi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Rajiv Gandhi Super Speciality Hospital, Taharpur, Delhi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " Vallabhbhai Patel Chest Institute VPCI , Delhi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Defence Institute of Physiology Allied Sciences DIPAS , DRDO, Delhi ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " ESIC Hospital, Basaidarapur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "16",
+            "name": " State TB Training and Demonstration Centre, Jawaharlal Nehru Marg, Delhi Gate",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "17",
+            "name": " Department of Microbiology, National Institute of TB and Respiratory Diseases NITRD , New Delhi",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "18",
+            "name": " Northern Railway Central Hospital, New Delhi ",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "19",
+            "name": " Lal Path Labs, Block E, Sector , Rohini, Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " Dr Dangs Lab, C , Safadarjung Development Area, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "21",
+            "name": " Laboratory Services, Indraprastha Apollo Hospitals, Sarita Vihar, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "22",
+            "name": " Max Lab, Max Super Spciality Hospital, Saket, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "23",
+            "name": " Sir Ganga Ram Hospital Clinical Lab Services, Sir Ganga Ram Hospital, Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "24",
+            "name": " Oncquest Labs Ltd, Factory Road, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "25",
+            "name": " Prognosis Laboratories, , Sector , Dwarka",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "26",
+            "name": " City X Ray Scan Clinic Pvt Ltd, B , Tilak Nagar, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "27",
+            "name": " Lifeline Laboratory, H , Green Park Extension, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "28",
+            "name": " Dept of Lab Services, Dr B L Kapur Memorial Hospital, , Pusa Road, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "29",
+            "name": " Dept of Laboratory Services, Action Cancer Hospital, A , Paschim Vihar East , New Delhi ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "30",
+            "name": " Star Imaging Path Lab Pvt Ltd, B , Tilak Nagar, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "31",
+            "name": " Genestrings Diagnostic Centre Pvt Ltd, , MMTC, Geetanjali Enclave, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "32",
+            "name": " Sterling Accuris Diagnostics, A divison of Sterling Accuris Wellness Pvt Ltd, C , Block C, Phase I, Okhla, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "33",
+            "name": " CRL Diagnostics Pvt Ltd, Plot No , Avtar Enclave, Opposite Metro Pillar , Paschim Vihar, Rohtak Road, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "34",
+            "name": " Dept of Lab Medicine, HCMCT, Manipal Hospital, Main Road, Sector , Dwarka, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "35",
+            "name": " Gen X Diagnostics, , Sarvapriya Vihar, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "36",
+            "name": " Noble Diagnostic Centre, WZ C, Janak Park, Hari Nagar, Opposite DDU Hospital, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "37",
+            "name": " Mahajan Imaging Pvt Ltd, E , Defence Colony, New Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "38",
+            "name": " Dept of Lab Sciences, Rajiv Gandhi Cancer Institute Research Centre, Sector , Rohini, New Delhi ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "39",
+            "name": " Metropolis Healthcare Ltd E , Block B , Mohan Cooperative Industrial Estate, South East Delhi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "40",
+            "name": " Gagan Pathology Imaging Pvt Ltd F , Near Ayodhya Chowk,Sector , Rohini, Delhi ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "41",
+            "name": " Aakash Path Lab, Aakash Healthcare Super speciality Hospital, Road No , Sector , Dwarka, New Delhi",
+            "type": "Private",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "42",
+            "name": " Dr P Bhasin Path Labs P Ltd, S Greater Kailash Part , New Delhi",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "43",
+            "name": " Venkateshwar Hospital, sector A, Dwarka, New Delhi ",
+            "type": "Private",
+            "test_type": "CB NAAT"
         }
     ]
 }
