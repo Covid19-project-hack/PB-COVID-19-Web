@@ -1,0 +1,740 @@
+{
+    "c1": [
+        {
+            "sno": "1",
+            "district": "AMRITSAR",
+            "name": "Shri Guru RamDass Institute of Medical sciences & Resarch, Shri Amritsar",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "2",
+            "district": "AMRITSAR",
+            "name": "GMC Amritsar",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "3",
+            "district": "FARIDKOT",
+            "name": "GMC FAridkot",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "4",
+            "district": "JALANDHAR",
+            "name": "District Hospital Jalandhar",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "KAPURTHALA",
+            "name": "DH Kapurthala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "6",
+            "district": "LUDHIANA",
+            "name": "Dayanand Medical Collage, Haibowal Ludhiana",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "7",
+            "district": "LUDHIANA",
+            "name": "Christian Medical Collage, Brown road Ludhiana,",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "8",
+            "district": "PATIALA",
+            "name": "New Mother and Child Hospital, Government Medical college Patiala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "S.A.S Nagar",
+            "name": "Gian Sagar Medical College and Hospital, Banur",
+            "type": "Private Medical College"
+        }
+    ],
+    "c2": [
+        {
+            "sno": "1",
+            "district": "AMRITSAR",
+            "name": "CHC Tarsika",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "2",
+            "district": "AMRITSAR",
+            "name": "CHC Lopoke",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "3",
+            "district": "AMRITSAR",
+            "name": "CHC Manawala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "4",
+            "district": "BARNALA",
+            "name": "CHC Mehal Kalan",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "BARNALA",
+            "name": "Rehabilitation Centre, Sohal Patti, Khuddi road, Barnala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "6",
+            "district": "BATHINDA",
+            "name": "CHC Ghudda",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "7",
+            "district": "BATHINDA",
+            "name": "District Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "8",
+            "district": "FARIDKOT",
+            "name": "CHC Baja Khana",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "FARIDKOT",
+            "name": "CHC Sadiq",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "10",
+            "district": "FATEHGARH SAHIB",
+            "name": "CHC Khera",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "11",
+            "district": "FATEHGARH SAHIB",
+            "name": "CHC Charnarthal",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "12",
+            "district": "FATEHGARH SAHIB",
+            "name": "Rehabilitation Center, Fatehgarh Sahib",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "13",
+            "district": "FAZILKA",
+            "name": "Jalalabad Hospital run by Baba Farid University of Health Sciences Faridkot",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "14",
+            "district": "FIROZEPUR",
+            "name": "CHC Guru Harasahai",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "15",
+            "district": "FIROZEPUR",
+            "name": "Eye Department in District Hospital Firozpur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "16",
+            "district": "FIROZEPUR",
+            "name": "District Hospital Firozpur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "17",
+            "district": "GURDASPUR",
+            "name": "Rehabilitation Centre, Jiwanwal Babbri, Gurdaspur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "18",
+            "district": "GURDASPUR",
+            "name": "SDH Batala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "19",
+            "district": "GURDASPUR",
+            "name": "CHC Dhariwal",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "20",
+            "district": "HOSHIARPUR",
+            "name": "New MCH Building, SDH Dasuya",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "21",
+            "district": "HOSHIARPUR",
+            "name": "CHC Binewal",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "22",
+            "district": "HOSHIARPUR",
+            "name": "CHS Harta Badla",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "23",
+            "district": "HOSHIARPUR",
+            "name": "District Hospital Hoshiarpur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "24",
+            "district": "HOSHIARPUR",
+            "name": "CHS Bhol Kalota",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "25",
+            "district": "JALANDHAR",
+            "name": "De Addiction Centre in District Hospital Jalandhar",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "26",
+            "district": "KAPURTHALA",
+            "name": "CHC Bholath",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "27",
+            "district": "KAPURTHALA",
+            "name": "Rehabilitation Centre, Circular Road, Mohabbat Nagar Kapurthala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "28",
+            "district": "LUDHIANA",
+            "name": "SDH Khanna",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "29",
+            "district": "LUDHIANA",
+            "name": "UCHC Vardhaman",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "30",
+            "district": "LUDHIANA",
+            "name": "DH Ludhiana",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "31",
+            "district": "LUDHIANA",
+            "name": "SDH Jagraon",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "32",
+            "district": "LUDHIANA",
+            "name": "CHC Kumbh Kalan",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "33",
+            "district": "MANSA",
+            "name": "District Hospital, Mansa",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "34",
+            "district": "MOGA",
+            "name": "Community Health Centre Bagha Purana",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "35",
+            "district": "MOGA",
+            "name": "District Hospital Moga",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "36",
+            "district": "MOGA",
+            "name": "CHC Dharoli Bhai",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "37",
+            "district": "PATHANKOT",
+            "name": "New Mother and Child Hospital, Pathankot",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "38",
+            "district": "PATHANKOT",
+            "name": "Ranjit Sagar Dam",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "39",
+            "district": "PATIALA",
+            "name": "CHC Patran",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "40",
+            "district": "PATIALA",
+            "name": "SDH Samana",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "41",
+            "district": "PATIALA",
+            "name": "CHC Ghanaur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "42",
+            "district": "PATIALA",
+            "name": "CHC Bhadson",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "43",
+            "district": "PATIALA",
+            "name": "SDH Nabha",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "44",
+            "district": "PATIALA",
+            "name": "SDH Rajpura",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "45",
+            "district": "PATIALA",
+            "name": "CHC Dudhan Sadhan",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "46",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "District Hospital Ropar( Ist Floor ) With Separate entrance and exit",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "47",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "BBMB Nangal",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "48",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "SDH Nangal",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "49",
+            "district": "S.A.S Nagar",
+            "name": "DH Mohali",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "50",
+            "district": "S.A.S Nagar",
+            "name": "ESI Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "51",
+            "district": "S.A.S Nagar",
+            "name": "Rehabilitation Centre Near Spine Centre sector 67 Mohali",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "52",
+            "district": "SANGRUR",
+            "name": "Rahbar Hospital Taken over by the Govt.",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "53",
+            "district": "SANGRUR",
+            "name": "District Hospital Sangrur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "54",
+            "district": "Shahid Bhagat Singh Nagar (Nawanshahr)",
+            "name": "District Hospital Nawanshahar",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "55",
+            "district": "SRI MUKTSAR SAHIB",
+            "name": "Civil Hospital Shri Muktsar Sahib",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "56",
+            "district": "Tarn Taran",
+            "name": "CHC Ghairala",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "57",
+            "district": "Tarn Taran",
+            "name": "New Mother and Child Hospital, Civil Hospital Tarntaran",
+            "type": "Govt Hospitals"
+        }
+    ],
+    "c3": [
+        {
+            "sno": "1",
+            "district": "AMRITSAR",
+            "name": "Meritorious CCC Amritsar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "2",
+            "district": "BARNALA",
+            "name": "Guru Gobind Singh College of Nursing Barnala",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "3",
+            "district": "BARNALA",
+            "name": "Punjab Multipurpose Medical Institute, Village Sehna, Tehsil Tapa, District Barnala",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "4",
+            "district": "BARNALA",
+            "name": "Jawahar navodaya vidyalaya, Village dhilwan, Tehsil Tapa District Barnala",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "5",
+            "district": "BATHINDA",
+            "name": "Meritorious School, Bathinda (Hostal)",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "6",
+            "district": "BATHINDA",
+            "name": "Maharaj Ranjit Singh Punjab Tech. Uni (Library)",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "7",
+            "district": "FARIDKOT",
+            "name": "Adesh Engineering College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "8",
+            "district": "FATEHGARH SAHIB",
+            "name": "RIMT College Mandi Gobindgarh",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "9",
+            "district": "FATEHGARH SAHIB",
+            "name": "Dolphin College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "10",
+            "district": "FAZILKA",
+            "name": "Maa Sarasvati Pharmacy Collage",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "11",
+            "district": "FIROZEPUR",
+            "name": "Meritorious School Ferozepur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "12",
+            "district": "FIROZEPUR",
+            "name": "Meritorious School, Ferozepur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "13",
+            "district": "GURDASPUR",
+            "name": "Bent Collage Bariar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "14",
+            "district": "HOSHIARPUR",
+            "name": "Boys and Girls Hostel Maritoriuos School Talwara",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "15",
+            "district": "HOSHIARPUR",
+            "name": "Jawahar Navodya Viyalaya Palahai",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "16",
+            "district": "HOSHIARPUR",
+            "name": "Multi Skill Development Centre ITI Complex Hoshiarpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "17",
+            "district": "HOSHIARPUR",
+            "name": "Swami Sarvanand Giri Regional Centre Punjab University Hoshiarpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "18",
+            "district": "HOSHIARPUR",
+            "name": "Rayat Bahra institute of Engineering & Technology, Hoshiarpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "19",
+            "district": "JALANDHAR",
+            "name": "Meritorious School, Jalaandhar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "20",
+            "district": "KAPURTHALA",
+            "name": "Gurudwara Shri Bebe Nanaki, Sultanpur Lodhi",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "21",
+            "district": "KAPURTHALA",
+            "name": "Gurudwara Shri Ber Sahib (Bebe Nanki Sarai), Sultanpur Lodhi",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "22",
+            "district": "LUDHIANA",
+            "name": "Govrnment Meritorious School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "23",
+            "district": "LUDHIANA",
+            "name": "GHG Nursing College,Goindwal, Raikot",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "24",
+            "district": "LUDHIANA",
+            "name": "Kullar Nursing College,Kishangarh Khanna",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "25",
+            "district": "MANSA",
+            "name": "Mata Sundari Girls College, Mansa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "26",
+            "district": "MOGA",
+            "name": "Govt. Polytechnic college,GTB Garh",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "27",
+            "district": "MOGA",
+            "name": "ST. Josephs Convent school, Ghal Kalan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "28",
+            "district": "MOGA",
+            "name": "SFC Public school Jalabad East",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "29",
+            "district": "MOGA",
+            "name": "SFC Nursing college ITI ,Jalabad East",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "30",
+            "district": "MOGA",
+            "name": "SFC convent school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "31",
+            "district": "MOGA",
+            "name": "L.L.R.I.E.T College, Ghal Kalan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "32",
+            "district": "PATHANKOT",
+            "name": "Sri sai Group of Institues",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "33",
+            "district": "PATHANKOT",
+            "name": "CMCH",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "34",
+            "district": "PATHANKOT",
+            "name": "Aman Bhalla Group of Institutes",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "35",
+            "district": "PATIALA",
+            "name": "Govt. Meritorious School, Punjabi University, Patiala",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "36",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "Charanjit singh Memorial Institute of Nursing Education, Morinda",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "37",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "IET Bhaddal",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "38",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "Jawahar navodhaya vidhala, village Sandhuan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "39",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "National Fertilizers Limited Guest house, Naya Nangal",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "40",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "Sari Guru Teg Bahadur Yatri Niwas Sri Anandpur Sahib Distt. Rupnagar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "41",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "Baba Zorawar singh Fateh singh Girls Khalsa College, Morinda",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "RUPNAGAR (Ropar)",
+            "name": "Bakhra Beas Management Board, Guest house, Naya Nangal",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "43",
+            "district": "S.A.S Nagar",
+            "name": "Chandigarh University",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "44",
+            "district": "SANGRUR",
+            "name": "SDH Dhuri District Sangrur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "45",
+            "district": "SANGRUR",
+            "name": "RAHBAR HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "46",
+            "district": "Shahid Bhagat Singh Nagar (Nawanshahr)",
+            "name": "KC GROUP OF INSTITUTIONS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "47",
+            "district": "Shahid Bhagat Singh Nagar (Nawanshahr)",
+            "name": "RAYAT INSTITUTE OF ENGINEERING AND INFORMATION TECHNOLOGY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "48",
+            "district": "SRI MUKTSAR SAHIB",
+            "name": "Mai Bhago Ayurvedic Medical College, Shri Muktsar Sahib",
+            "type": "Hospital"
+        },
+        {
+            "sno": "49",
+            "district": "Tarn Taran",
+            "name": "Mamta Niketan School ,Tarntaran",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "50",
+            "district": "Tarn Taran",
+            "name": "Shiv Shakti College of Nursing",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "51",
+            "district": "Tarn Taran",
+            "name": "S.B.S pharmacy college, patti",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "52",
+            "district": "Tarn Taran",
+            "name": "Sri Guru Arjan Dev Govt. Sen . Sec School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "Tarn Taran",
+            "name": "S.B.S hostel , patti",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "54",
+            "district": "Tarn Taran",
+            "name": "Mai Bhago Nursing College , Village Piddi, Tarntaran",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "55",
+            "district": "Tarn Taran",
+            "name": "Bhai Bala Ji Boys Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "56",
+            "district": "Tarn Taran",
+            "name": "Bibi Amro Girls College , Khadoor sahib , Tarntaran",
+            "type": "Other than Hospital"
+        }
+    ]
+}
